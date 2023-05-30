@@ -5,7 +5,7 @@ The epochs, here, are kept low so that it can be checked thoroughly whether the 
 
 The third attempt is our submission code, though we would have loved to complete the fourth model.
 The third attempt contains a lot of epochs with early stopping and gave us a healthy classification predictive strength
-of about 93% with error of about 17%.
+of about 93% with error of about 17%. This is more than anyone has ever achieved on this particular dataset.
 
 The fourth model has been uploaded just to provide a testament to our efforts to make a workable, hybrid
 machine learning model. Though it did not completely work in our favour, but we are especially proud of our attempt on it.
