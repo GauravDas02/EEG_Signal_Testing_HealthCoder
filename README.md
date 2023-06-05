@@ -13,3 +13,7 @@ We believe that with a bit of more finestrokes and better execution we can produ
 strength and lower losses. It failed due to a lot of reasons, such as limited computational resources and unexpected errors
 popping up after a good number of hours of training. Still, we will be working on after it, to hopefully, produce a respectable
 model using it.
+
+The fifth model is only architecturally built, and it also displayed similar problems to the fourth one. The major aim was to use the 
+neural network and extract the features from it and train the SVM model, and repeat over several epochs and finally calculate the 
+approximation using Logistic Regression.
