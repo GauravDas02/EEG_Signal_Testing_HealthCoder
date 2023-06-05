@@ -13,3 +13,7 @@ We believe that with a bit of more finestrokes and better execution we can produ
 strength and lower losses. It failed due to a lot of reasons, such as limited computational resources and unexpected errors
 popping up after a good number of hours of training. Still, we will be working on after it, to hopefully, produce a respectable
 model using it.
+
+The fifth model had similar outcomes to the fourth model. It was based on the process of using neural network model and extracting 
+features from it and adding to the SVM model and using backpropagation for training it for desired number of epochs and
+getting results using Logistic Regression.
